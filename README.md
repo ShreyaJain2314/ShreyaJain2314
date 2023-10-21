@@ -1,6 +1,7 @@
 Hi there, Shreya Jain
 
 About :
+
 🔭 I have completed my masters in Artificial Intelligence and Machine Learning from Chandigarh University.
 
 🔭 I am really passionate about Deep Learning, Machine Learning and Natural Language Processing.
