@@ -6,7 +6,7 @@ About :
 
 🔭 I am really passionate about Deep Learning, Machine Learning and Natural Language Processing.
 
-💬 My Personal motive is to give my full potential to build AI-based solutions that solve a high-impact problem for people around the globe and simplify everyday living.
+💬 My primary goal is to leverage my skills and expertise in developing AI-powered solutions that address significant global challenges and enhance the daily lives of people.
 
 👯 Worked as Software Engineer having one year of experience with STGI.
 
