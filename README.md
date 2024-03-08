@@ -2,14 +2,13 @@ Hi there, Shreya Jain
 
 About :
 
-🔭 I have completed my masters in Artificial Intelligence and Machine Learning from Chandigarh University.
+🔭 EDUCATION         : M.Tech in Artificial Intelligence and Machine Learning , Chandigarh University.
+                      B.Tech in Cloud Computing and Virtualization Technology , UPES
 
-🔭 I am really passionate about Deep Learning, Machine Learning and Natural Language Processing.
+🔭 SKILLS            : Gen AI | LLMs | Deep Learning | Machine Learning | Natural Language Processing | Data Analysis | Applied Statistics
 
-💬 My primary goal is to leverage my skills and expertise in developing AI-powered solutions that address significant global challenges and enhance the daily lives of people.
+💬 PROFESSIONAL GOAL : To leverage my skills and expertise in developing AI-powered solutions that address significant global challenges and enhance the daily lives of people.
 
-👯 Working as an Associate Consultant( Data & AI ) in Ernst & Young LLP(GPS).
-
-Skills: Gen AI | LLMs | Machine Learning | Deep Learning | Natural Language Processing | Probability and Random Variables | Applied Statistics
+👯 WORKING as Associate Consultant( Data & AI ) in Ernst & Young LLP(GPS).
 
 📫 Reach me at: shreyajain231400@gmail.com
