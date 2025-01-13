@@ -7,8 +7,8 @@ About :
 
 🔭 SKILLS            : Deep Learning | Machine Learning | Natural Language Processing | Data Analysis | Applied Statistics
 
-💬 PROFESSIONAL GOAL : To leverage my skills and expertise in developing AI-powered solutions that address significant global challenges and enhance the daily lives of people.
+💬 PROFESSIONAL GOAL : To harness my expertise in AI and machine learning to design innovative solutions that tackle pressing global challenges, drive meaningful impact, and improve the quality of life for individuals.
 
-👯 WORKING as Associate Consultant( Data & AI ) in Ernst & Young LLP(GPS).
+👯 WORKING as Associate Consultant( Data Scientist ) in Ernst & Young LLP(GPS).
 
 📫 Reach me at: shreyajain231400@gmail.com
