@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shreya Jain</h1>
-<h3 align="center">Data Scientist from India</h3>
+<h3 align="center">Data Scientist</h3>
 
 
 - 🔭 I’m currently working on **AI-driven logistics optimization , integrating IoT sensor data & ML models to predict equipment failures, optimize train scheduling, and enhance container utilization. Developing AI/ML-powered solutions ,including Document Intelligence, WhatsApp chatbot integration, predictive analytics, and text-to-SQL transformation.**
